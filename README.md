@@ -1,7 +1,8 @@
 # Haskell-Bencode
 Bencode Encoder and Decoder made using haskell.
 
-Bencode (pronounced like Bee-encode) is the encoding used by the peer-to-peer file sharing system [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent_(protocol)) for storing and transmitting loosely structured data.[1]
+Bencode (pronounced like Bee-encode) is the encoding used by the peer-to-peer file sharing system [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent_(protocol)) for storing and transmitting loosely structured data.
+
 It supports four different types of values:
 byte strings,
 integers,
